@@ -2,18 +2,18 @@
 <h3 align="center">🚀 Flutter Full Stack Developer | Backend Engineer | Mentor</h3>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Muhammed%20Midlaj&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Muhammed%20Midlaj&fontSize=40&fontColor=ffffff"/>
 </p>
 
 ---
 
 ## 💫 About Me
 
-- 🔭 Building LMS Platform for HACA  
+- 🔭 Currently building scalable LMS platforms  
 - 👨‍🏫 Flutter & Full Stack Mentor  
-- 🛠 Specialized in Flutter, Node.js & Scalable Backends  
+- 🛠 Expert in Flutter, Node.js & Backend Systems  
 - 🚀 Building SaaS & Shopify Applications  
-- 🌍 Kerala, India  
+- 🌍 Based in Kerala, India  
 
 ---
 
