@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Muhammed Midlaj</h1>
-<h3 align="center">🚀 Flutter Full Stack Developer | Backend Engineer | Mentor</h3>
+<h3 align="center"> Flutter Full Stack Developer | Backend Engineer | Mentor</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D56&height=200&section=header&text=Muhammed%20Midlaj&fontSize=40&fontColor=ffffff" />
 
