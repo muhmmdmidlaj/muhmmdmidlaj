@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋 I'm Muhammed Midlaj</h1>
-<h3 align="center"> Flutter Full Stack Developer | Backend Engineer | Mentor</h3>
+<h3 align="center">🚀 Flutter Full Stack Developer | Backend Engineer | Mentor</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D56&height=200&section=header&text=Muhammed%20Midlaj&fontSize=40&fontColor=ffffff" />
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Muhammed%20Midlaj&fontSize=40&fontColor=ffffff"/>
+</p>
 
 ---
 
 ## 💫 About Me
 
-- 🔭 Currently building an **LMS Platform for HACA**
-- 👨‍🏫 Flutter & Full Stack Mentor
-- 🛠 Specialized in Flutter, Node.js & scalable backend systems
-- 🚀 Building Shopify & SaaS applications
-- 🌍 Based in Kerala, India
+- 🔭 Building LMS Platform for HACA  
+- 👨‍🏫 Flutter & Full Stack Mentor  
+- 🛠 Specialized in Flutter, Node.js & Scalable Backends  
+- 🚀 Building SaaS & Shopify Applications  
+- 🌍 Kerala, India  
 
 ---
 
@@ -26,8 +28,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muhmmdmidlaj&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhmmdmidlaj&layout=compact&theme=tokyonight" height="150"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=muhmmdmidlaj&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhmmdmidlaj&layout=compact&theme=github_dark&hide_border=true&bg_color=000000" 
+    height="170"
+  />
 </p>
 
 ---
@@ -35,18 +43,26 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=muhmmdmidlaj&theme=tokyonight" height="150"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=muhmmdmidlaj&theme=github-dark&hide_border=true&background=000000" 
+    height="180"
+  />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhmmdmidlaj/muhmmdmidlaj/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhmmdmidlaj/muhmmdmidlaj/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/muhmmdmidlaj/muhmmdmidlaj/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/muhmmdmidlaj/muhmmdmidlaj/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/muhmmdmidlaj/muhmmdmidlaj/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake"
+      src="https://raw.githubusercontent.com/muhmmdmidlaj/muhmmdmidlaj/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
 
 ---
 
@@ -54,14 +70,16 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammed-midlaj-mp">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/mhmmd_midlaj">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F3D56,100:6C63FF&height=120&section=footer"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=footer"/>
+</p>
