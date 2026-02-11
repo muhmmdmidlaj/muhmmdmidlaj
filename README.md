@@ -1,4 +1,4 @@
-@gmail.com- 👋 Hi, I’m @muhmmdmidlaj
+- 👋 Hi, I’m @muhmmdmidlaj
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning new Innivations
 - 💞️ I’m looking to collaborate on Flutter.
