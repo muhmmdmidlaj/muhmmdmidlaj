@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning new Innivations
 - 💞️ I’m looking to collaborate on Flutter.
-- 📫 How to reach me muhammedmidlaj8395@gmail.com
+- 📫 How to reach me muhmmdmidlaj@gmail.com
 - ⚡ Fun fact: Coding...
 
 <!---
