@@ -5,7 +5,7 @@
 <div align="center">
 
 # `HELLO, I'M`
-# <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=42&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&lines=MUHAMMED+MIDLAJ" alt="MUHAMMED MIDLAJ" />
+# <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=35&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&lines=MUHAMMED+MIDLAJ" alt="MUHAMMED MIDLAJ" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2500&color=00F5D4&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Flutter+%26+Mobile+Dev;Project+Lead;Mentor+%7C+100%2B+Students;Builder" alt="Typing SVG" />
 
