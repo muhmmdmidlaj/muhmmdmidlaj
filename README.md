@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5D4&height=120&section=header&text=%3C%20MM%20%2F%3E&fontColor=070B14&fontSize=40&fontAlignY=35&animation=fadeIn" width="100%" />
-</div>
+</div> -->
 
 <div align="center">
 
