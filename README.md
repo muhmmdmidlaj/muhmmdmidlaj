@@ -1,83 +1,150 @@
-<h1 align="center">Hi 👋 I'm Muhammed Midlaj</h1>
-<h3 align="center">🚀 Flutter Full Stack Developer | Backend Engineer | Mentor</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Muhammed%20Midlaj&fontSize=40&fontColor=ffffff"/>
-</p>
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║              < MM />   INITIALIZING...                   ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
----
+# HELLO, I'M
+# MUHAMMED MIDLAJ
 
-## 💫 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2500&color=00F5D4&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Project+Lead;Mentor;Builder)](https://git.io/typing-svg)
 
-- 🔭 Currently building scalable LMS platforms  
-- 👨‍🏫 Flutter & Full Stack Mentor  
-- 🛠 Expert in Flutter, Node.js & Backend Systems  
-- 🚀 Building SaaS & Shopify Applications  
-- 🌍 Based in Kerala, India  
+> **Building interactive experiences and robust applications.**
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=070B14)](https://muhammedmidlajm.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00F5D4?style=for-the-badge&logo=linkedin&logoColor=070B14)](https://linkedin.com/in/muhammed-midlaj)
+[![GitHub](https://img.shields.io/badge/GitHub-00F5D4?style=for-the-badge&logo=github&logoColor=070B14)](https://github.com/muhammedmidlajm)
 
-## 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,mongodb,mysql,postgres,aws,firebase,react,js,html,css,figma,git,github,gitlab" />
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=muhmmdmidlaj&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhmmdmidlaj&layout=compact&theme=github_dark&hide_border=true&bg_color=000000" 
-    height="170"
-  />
-</p>
+```
+┌─────────────┬────────────────┬──────────────────┐
+│   3+ YRS    │   12+ PROJECTS │   100+ STUDENTS  │
+│   EXP       │                │                  │
+└─────────────┴────────────────┴──────────────────┘
+```
+
+</div>
 
 ---
 
-## 🔥 Contribution Streak
+## `> ABOUT_ME`
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=muhmmdmidlaj&theme=github-dark&hide_border=true&background=000000" 
-    height="180"
-  />
-</p>
+```javascript
+const midlaj = {
+  name     : "Muhammed Midlaj",
+  role     : ["Full Stack Developer", "Mentor", "Builder"],
+  location : "Kerala, India 🇮🇳",
+  focus    : "Building interactive web experiences",
+  available: true,  // open to opportunities
 
----
+  stack: {
+    frontend : ["React", "Next.js", "Tailwind CSS"],
+    backend  : ["Node.js", "Express.js", "MongoDB"],
+    tools    : ["Git", "Figma", "Docker"],
+  },
 
-## 👾 Contribution Pacman
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/muhmmdmidlaj/muhmmdmidlaj/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/muhmmdmidlaj/muhmmdmidlaj/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph"
-      src="https://raw.githubusercontent.com/muhmmdmidlaj/muhmmdmidlaj/output/pacman-contribution-graph-dark.svg">
-  </picture>
-</p>
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/muhammed-midlaj-mp">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/mhmmd_midlaj">
-<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</p>
+  currentlyBuilding: "Portfolio with gamification layer 🎮",
+  motto: "Clean code. Bold UI. Real impact.",
+};
+```
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=footer"/>
-</p>
+## `> TECH_STACK`
+
+<div align="center">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-070B14?style=for-the-badge&logo=react&logoColor=00F5D4)
+![Next.js](https://img.shields.io/badge/Next.js-070B14?style=for-the-badge&logo=nextdotjs&logoColor=00F5D4)
+![TypeScript](https://img.shields.io/badge/TypeScript-070B14?style=for-the-badge&logo=typescript&logoColor=00F5D4)
+![Tailwind](https://img.shields.io/badge/Tailwind-070B14?style=for-the-badge&logo=tailwindcss&logoColor=00F5D4)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-070B14?style=for-the-badge&logo=framer&logoColor=00F5D4)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-070B14?style=for-the-badge&logo=nodedotjs&logoColor=00F5D4)
+![Express](https://img.shields.io/badge/Express-070B14?style=for-the-badge&logo=express&logoColor=00F5D4)
+![MongoDB](https://img.shields.io/badge/MongoDB-070B14?style=for-the-badge&logo=mongodb&logoColor=00F5D4)
+![REST API](https://img.shields.io/badge/REST_API-070B14?style=for-the-badge&logo=fastapi&logoColor=00F5D4)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-070B14?style=for-the-badge&logo=git&logoColor=00F5D4)
+![GitHub](https://img.shields.io/badge/GitHub-070B14?style=for-the-badge&logo=github&logoColor=00F5D4)
+![Figma](https://img.shields.io/badge/Figma-070B14?style=for-the-badge&logo=figma&logoColor=00F5D4)
+![VS Code](https://img.shields.io/badge/VS_Code-070B14?style=for-the-badge&logo=visualstudiocode&logoColor=00F5D4)
+![Vercel](https://img.shields.io/badge/Vercel-070B14?style=for-the-badge&logo=vercel&logoColor=00F5D4)
+
+</div>
+
+---
+
+## `> GITHUB_STATS`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammedmidlajm&show_icons=true&theme=transparent&hide_border=true&title_color=00F5D4&icon_color=00F5D4&text_color=8892A4&bg_color=070B14" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedmidlajm&layout=compact&theme=transparent&hide_border=true&title_color=00F5D4&text_color=8892A4&bg_color=070B14" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=muhammedmidlajm&theme=transparent&hide_border=true&stroke=00F5D4&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4&sideLabels=8892A4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8892A4&background=070B14)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `> FEATURED_PROJECTS`
+
+<div align="center">
+
+| Project | Stack | Status |
+|---------|-------|--------|
+| **🌐 Dev Portfolio** — Interactive portfolio with gamification, XP system & daily games | Next.js · MongoDB · Framer Motion | ✅ Live |
+| **🛒 E-Commerce Platform** — Full-stack shop with auth, cart & payment integration | React · Node.js · MongoDB | ✅ Complete |
+| **📱 Task Manager App** — Real-time collaborative task board with drag-and-drop | Next.js · Socket.io · Tailwind | 🚧 Building |
+
+</div>
+
+---
+
+## `> ACTIVITY`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammedmidlajm&theme=react-dark&bg_color=070B14&color=00F5D4&line=00F5D4&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║   > OPEN TO COLLABORATION & FREELANCE WORK       ║
+║   > LET'S BUILD SOMETHING GREAT TOGETHER         ║
+║                                                  ║
+║   📧  muhammedmidlajm@gmail.com                  ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=muhammedmidlajm&color=00F5D4&style=for-the-badge&label=VISITORS)
+
+</div>
