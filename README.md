@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td align="center"><h2>3+&nbsp;YRS</h2></td>
-    <td align="center"><h2>12+</h2></td>
+    <td align="center"><h2>30+</h2></td>
     <td align="center"><h2>100+</h2></td>
   </tr>
 </table>
