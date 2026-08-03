@@ -59,7 +59,7 @@ const midlaj = {
     devops   : ["Git", "Vercel", "Cloud Hosting"],
   },
 
-  currentlyBuilding : "Portfolio with gamification layer 🎮",
+  currentlyBuilding : "Coordees - Mobile app for CCTV technicians ",
   superpower        : "Flutter Mentorship (91% mastery)",
   motto             : "Clean code. Bold UI. Real impact.",
 };
